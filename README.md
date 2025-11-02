@@ -53,8 +53,9 @@ Con ellos, podrás enfrentarte a **Seth** y liberar a los ciudadanos del antiguo
 
 ---
 
-## Video demostrativo
+## Video demostrativo y Build
 
 Link de Google Drive: https://drive.google.com/drive/folders/1MgzaMwemGHqKXtWAM5K4nGh3lgsW3rLZ
+
 
 
