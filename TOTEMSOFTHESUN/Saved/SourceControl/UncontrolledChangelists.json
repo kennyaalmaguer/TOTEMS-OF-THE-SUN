@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/Characters/WVP.uasset",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/MENUS/WBP_INICIO.uasset",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/MENUS/MENUNIVEL.umap",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/LevelPrototyping/Textures/JUGAR.uasset",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/LevelPrototyping/Textures/MAINMENUF.uasset",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/LevelPrototyping/Textures/MENUOPC.uasset",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/LevelPrototyping/Textures/MENUPAUSA.uasset",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/LevelPrototyping/Textures/OPCIONES.uasset",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/LevelPrototyping/Textures/SALIR.uasset",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/MENUS/WBP_PAUSA.uasset",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/MENUS/WBP_OPCIONES.uasset",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/LevelPrototyping/Textures/REANUDAR.uasset",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/LevelPrototyping/Textures/VOLVER.uasset",
+				"C:/Users/kenia/Documents/KENNY/UNI/7MO SEMESTRE/OPTIMIZACION/TOTEMSOFTHESUN/Content/MENUS/interfaz.uasset"
+			]
+		}
+	]
+}
